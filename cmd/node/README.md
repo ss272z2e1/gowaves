@@ -71,3 +71,5 @@ make release-node
 
 The DEB files are placed in the `build/dist` folder.
 For example, DEB package for MainNet will be named `gowaves-mainnet-0.10.0.deb`.
+
+<!-- Auto-update: 2025-10-17T12:28:53.515341 -->
